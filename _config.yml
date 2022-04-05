@@ -25,7 +25,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://jekyll.joerg-lohrer.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joerglohrer
 github_username:  joerglohrer
-markdown: GFM
+kramdown:
+  input: GFM
 
 
 # Build settings

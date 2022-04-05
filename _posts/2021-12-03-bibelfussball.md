@@ -1,14 +1,16 @@
 ---
 title: Bibelfußball - Nachschlage-Quiz zur Bibel
-description: Bibelfußball ist ein einfaches und begeisterndes Quizduell, bei dem die Lehrperson die Klasse in zwei Hälften teilt, die wie beim Fußball gegeneinander spielen. 
+description: Bibelfußball ist ein einfaches und begeisterndes Quizduell, bei dem die Lehrperson die Klasse in zwei Hälften teilt, die wie beim Fußball gegeneinander spielen.
 image: https://i.imgur.com/he0CWut.png
 tags: Bibel, Fussball, Quiz, Tafel
 lang: de
 dir: ltr
 toc: true
 toc_label: "Inhaltsverzeichnis"
-toc_icon: "futbol" 
-toc_sticky: "true" 
+toc_icon: "futbol"
+toc_sticky: "true"
+permalink: /bibelfussball
+layout: post
 ---
 
 # Bibelfußball: Nachschlage-Quiz zur Bibel

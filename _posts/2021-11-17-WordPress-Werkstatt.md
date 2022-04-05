@@ -1,4 +1,9 @@
-# WordPress Werkstatt PHP 
+---
+layout: post
+
+---
+
+# WordPress Werkstatt PHP
 Zunächst wird auf relilab.org das kostenfreie [Plugin ACF - Advanced Custom Fields](https://de.wordpress.org/plugins/advanced-custom-fields/) installiert und aktiviert.
 Dies ermöglicht weitere individuelle Beitragsfelder für die Beiträge.
 Nun kann manuell aktiviert oder eine Feldgruppe importiert werden - hier mittels [dieser JSON-Datei](#ACF-JSON-Export), die das abkürzt:
@@ -101,7 +106,7 @@ In PhpStorm
 ![](https://i.imgur.com/FbGkWpx.png)
 ```add_shortcode( string $tag, callable $callback )```
 
-alle Termine listen, die 
+alle Termine listen, die
 https://www.advancedcustomfields.com/resources/orde-posts-by-custom-fields/
 
 ![](https://i.imgur.com/IoAwHqm.png)
